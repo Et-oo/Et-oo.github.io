@@ -8,14 +8,14 @@ html, body {
 }
 
 body {
+  font-family: Arial, sans-serif;
   background-color: #06000f;
   display: table;
 }
 
 .wip{
-  font-gamily: Arial;
-  font-size: 32;
   color: #f59518;
+  font-size:32;
   text-align: center;
   display: table-cell;
   vertical-align: middle;
