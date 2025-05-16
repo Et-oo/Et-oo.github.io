@@ -3,6 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
+  background-color: #06000f;
 }
 
 body {
@@ -10,7 +11,9 @@ body {
 }
 
 .wip{
-  
+  font-gamily: Arial;
+  font-size: 32;
+  font-color: #f59518;
   text-align: center;
   display: table-cell;
   vertical-align: middle;
