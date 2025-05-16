@@ -1,4 +1,3 @@
-background-color: #06000f;
 
 html, body {
   height: 100%;
@@ -9,13 +8,14 @@ html, body {
 }
 
 body {
+  background-color: #06000f;
   display: table;
 }
 
 .wip{
   font-gamily: Arial;
   font-size: 32;
-  font-color: #f59518;
+  color: #f59518;
   text-align: center;
   display: table-cell;
   vertical-align: middle;
