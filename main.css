@@ -1,12 +1,16 @@
-#wip{
-    display: flex;
-    font-color: #f5df16 ;
-    font-family: Arial, sans-serif;
-    flex-direction: row;
-    align-items: center;
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+width: 100%;
 }
 
-#wipspan{
-    vertical-align:center;
-    
+body {
+display: table;
 }
+
+.wip{
+text-align: center;
+display: table-cell;
+vertical-align: middle;
+}    
