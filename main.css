@@ -1,7 +1,9 @@
 #wip{
-    font-color:#f5df16 ;
+    display: flex;
+    font-color: #f5df16 ;
     font-family: Arial, sans-serif;
-    text-align: center;
+    flex-direction: row;
+    align-items: center;
 }
 
 #wipspan{
